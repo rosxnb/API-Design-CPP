@@ -22,6 +22,8 @@ Implementation of API can be provided by:
 - Static library:  *.lib* on Windows or *.a* on MacOS/Linux
 - Dynamic library: *.dll* on Windows or *.dylib* on MacOS or *.so* on Linux
 
+More about [Static vs Dynamic Library](./Staic_Dynamic_Library/README.md)
+
 
 ## Advantages of API
 
